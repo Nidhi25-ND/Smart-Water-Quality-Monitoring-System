@@ -31,7 +31,7 @@ It continuously measures **pH, turbidity, and temperature** of water, processes 
 - ESP8266/ESP32 libraries (Wi‑Fi + IoT support)  
 - ThingSpeak API (cloud visualization & storage)  
 - Local Web Server (HTML + JSON for offline monitoring)  
-- Proteus / EveryCircuit (simulation & testing)  
+- TinkerCAD (simulation & testing)  
 
 ## System Workflow
 1. **Sensors** measure pH, turbidity, and temperature.  
