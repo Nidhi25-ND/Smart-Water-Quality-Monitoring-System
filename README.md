@@ -39,7 +39,7 @@ It continuously measures **pH, turbidity, and temperature** of water, processes 
 3. **ESP32** transmits data via Wi‑Fi.  
 4. **ThingSpeak cloud** stores and visualizes readings.  
 5. **Local web dashboard** displays real‑time values.  
-6. Alerts are triggered if thresholds are exceeded.  
+6. **Alerts** are triggered if thresholds are exceeded.  
 
 ## Applications
 - Drinking water safety monitoring  
